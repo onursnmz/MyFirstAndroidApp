@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">190508356_Onur_Sonmez</string>
+    <string name="urun_miktar">Ürün miktarı girin</string>
+    <string-array name="os_urun_tip">
+
+        <item>paket</item>
+        <item>kilo</item>
+        <item>adet</item>
+        <item>kutu</item>
+    </string-array>
+</resources>
