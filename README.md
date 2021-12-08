@@ -1,6 +1,6 @@
 # MyFirstAndroidApp
- Android veri girişi elemanlarını kullanarak sepete ürün ekleme
--Veri girişi elemanlarını kullanarak Kıyafet Giyim uygulaması.
+ Android veri girişi elemanlarını kullanarak sepete ürün ekleme;
+-Veri girişi elemanlarını kullanarak Kıyafet Giyim uygulaması.;
 -Bu veri girişlerini biraz açarsak;
 -Checkbox= Kıyafetin rengi (Mavi, Kırmızı, Sarı, Yeşil)
 -Spinner= Kıyafet deseni (Çizgili, Kareli, Düz)
