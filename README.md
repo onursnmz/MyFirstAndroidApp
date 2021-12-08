@@ -1,7 +1,7 @@
 # MyFirstAndroidApp
- Android veri girişi elemanlarını kullanarak sepete ürün ekleme;
--Veri girişi elemanlarını kullanarak Kıyafet Giyim uygulaması.;
--Bu veri girişlerini biraz açarsak;
+-  Android veri girişi elemanlarını kullanarak sepete ürün ekleme
+- Veri girişi elemanlarını kullanarak Kıyafet Giyim uygulaması.
+- Bu veri girişlerini biraz açarsak;
 -Checkbox= Kıyafetin rengi (Mavi, Kırmızı, Sarı, Yeşil)
 -Spinner= Kıyafet deseni (Çizgili, Kareli, Düz)
 -RadioButon= Kıyafet Puanı (1,2,3,4,5 Puan gibi düşünebiliriz)
